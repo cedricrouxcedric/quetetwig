@@ -1,0 +1,13 @@
+{
+    "name": "cedric/twig",
+    "description": "quete twig",
+    "authors": [
+        {
+            "name": "cedricrouxcedric",
+            "email": "cedricroux@outlook.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
